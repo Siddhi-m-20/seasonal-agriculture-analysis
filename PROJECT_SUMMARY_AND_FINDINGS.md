@@ -199,16 +199,11 @@ Nine comprehensive charts included in presentation:
 
 ---
 
-## 📞 SUBMISSION CONTACTS
-
-**Assignment Reviewer:** [Sir's Name/Contact]  
 **Course Mentor:** VOIS AICTE Program  
-**Submission Deadline:** [Insert Date]  
+**Submission Deadline:** 09/05/2026 
 **Submission Format:** PowerPoint + Jupyter Notebook + GitHub Link
 
 ---
-
-**Project Status:** ✅ READY FOR SUBMISSION
 
 *Analysis completed with comprehensive findings. All visualizations generated. Presentation fully formatted.*
 
