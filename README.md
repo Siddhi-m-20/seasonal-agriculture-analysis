@@ -95,7 +95,6 @@ This project analyzes 4,000 agricultural records across three Indian seasons to 
 seasonal-agriculture-analysis/
 ├── Seasonal_Agriculture_Analysis.ipynb          # Main Jupyter Notebook (code, charts, analysis)
 ├── Seasonal_Agriculture_Analysis_Presentation.pptx # Final project presentation (14 slides)
-├── Seasonal_Agriculture_Analysis_Presentation.pdf  # Presentation PDF backup
 ├── seasonal_agriculture_performance_dataset.csv   # Cleaned 4,000-record dataset
 ├── visualizations/                               # Generated high-resolution charts
 ├── README.md                                     # Project overview and documentation
