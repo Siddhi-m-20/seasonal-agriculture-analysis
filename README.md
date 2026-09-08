@@ -262,7 +262,7 @@ This is an academic project. For questions or discussions:
 ## 📞 Author & Contact
 
 **Author:** Siddhi Ramkrishna Manjarekar  
-**College:** Savitribai Phule Pune University
+**College:** Savitribai Phule Pune University  
 **AICTE STU ID:** STU654e5442c94401699632194  
 **Internship ID:** INTERNSHIP_17830691666a4779eecfe8a  
 **Batch:** VOIS AICTE Batch 1 (August Batch 2026)  
