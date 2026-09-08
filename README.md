@@ -93,14 +93,13 @@ This project analyzes 4,000 agricultural records across three Indian seasons to 
 
 ```
 seasonal-agriculture-analysis/
-├── Seasonal_Agriculture_Analysis.ipynb    # Main Jupyter Notebook
-├── seasonal_agriculture_performance_dataset.csv  # Dataset
-├── README.md                              # This file
-├── requirements.txt                       # Python dependencies
-├── visualizations/
-│   └── seasonal_analysis_visualizations.png
-└── data/
-    └── [data files]
+├── Seasonal_Agriculture_Analysis.ipynb          # Main Jupyter Notebook (code, charts, analysis)
+├── Seasonal_Agriculture_Analysis_Presentation.pptx # Final project presentation (14 slides)
+├── Seasonal_Agriculture_Analysis_Presentation.pdf  # Presentation PDF backup
+├── seasonal_agriculture_performance_dataset.csv   # Cleaned 4,000-record dataset
+├── visualizations/                               # Generated high-resolution charts
+├── README.md                                     # Project overview and documentation
+└── requirements.txt                              # Python dependencies
 ```
 
 ---
@@ -116,7 +115,7 @@ seasonal-agriculture-analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/[your-username]/seasonal-agriculture-analysis.git
+   git clone https://github.com/Siddhi-m-20/seasonal-agriculture-analysis.git
    cd seasonal-agriculture-analysis
    ```
 
@@ -261,55 +260,26 @@ This is an academic project. For questions or discussions:
 
 ---
 
-## 📝 Project Documentation
+## 📞 Author & Contact
 
-### Presentation
-- **File:** `Seasonal_Agriculture_Analysis_Presentation.pptx`
-- **Slides:** 14 professional slides with visualizations
-- **Usage:** Final project submission and presentation
-
-### Summary Document
-- **File:** `PROJECT_SUMMARY_AND_FINDINGS.md`
-- **Content:** Detailed findings, methodology, and recommendations
-
----
-
-## 📞 Contact & Support
-
-**Author:** [Your Name]  
-**STU ID:** [Your ID]  
-**Batch:** VOIS AICTE Batch 1 (2026-2027)  
-**Email:** [Your Email]
-
----
-
-## ✅ Submission Checklist
-
-- [x] Jupyter Notebook with complete analysis
-- [x] Professional presentation (14 slides)
-- [x] Visualization dashboard (9+ charts)
-- [x] Summary document
-- [x] GitHub repository with README
-- [x] Data file included
-- [x] Requirements.txt for dependencies
+**Author:** Siddhi Ramkrishna Manjarekar  
+**College:** Savitribai Phule Pune University
+**AICTE STU ID:** STU654e5442c94401699632194  
+**Internship ID:** INTERNSHIP_17830691666a4779eecfe8a  
+**Batch:** VOIS AICTE Batch 1 (August Batch 2026)  
+**Track:** Data Analytics (VOIS for Tech Program)  
+**GitHub:** [Siddhi-m-20](https://github.com/Siddhi-m-20)
 
 ---
 
 ## 📜 License
 
-Academic project for VOIS AICTE Program. 
-Educational use only.
+Academic project developed for the VOIS AICTE Data Analytics Internship Program. For educational and research purposes.
 
 ---
 
 ## 🎉 Acknowledgments
 
-- VOIS AICTE Program for the opportunity
-- Dataset provided for educational purposes
-- Python data science community
-
----
-
-**Project Status:** ✅ COMPLETE AND READY FOR SUBMISSION
-
-*Last Updated: September 2026*
+- VOIS & Vodafone Idea Foundation for the VOIS for Tech learning track
+- Edunet Foundation & AICTE for mentorship and program guidance
+- Python open-source data analytics and scientific computing community
